@@ -14,7 +14,7 @@ In this project I visualised USGS's earthquake data. USGS collects a massive amo
 ![2-BasicMap](Images/2-BasicMap.png)
 
 
-1. **Get the data set**
+1. **The data set**
 
    ![3-Data](Images/3-Data.png)
 
